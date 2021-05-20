@@ -36,7 +36,7 @@ function HelloWorld(props) {
       <Grid 
         container 
         direction="column"
-        justify=""
+        justify="center"
         alignItems="stretch"
         style={{border: 'dashed indigo 2px'}}
       >
